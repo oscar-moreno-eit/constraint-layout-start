@@ -160,8 +160,8 @@
         android:layout_width="358dp"
         android:layout_height="275dp"
         android:text="@string/singapore_description"
-        tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="305dp" />
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="352dp" />
 
 
 </android.support.constraint.ConstraintLayout>
